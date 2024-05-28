@@ -27,7 +27,7 @@ public class GuessANumber {
                     System.out.println("Too Low!");
                 }
             }else{
-                System.out.println("Invalid input!");
+                System.out.println("Invalid input");
             }
         }
     }
